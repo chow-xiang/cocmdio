@@ -1,0 +1,26 @@
+{
+  "name": "cocmdio",
+  "version": "1.0.0",
+  "description": "This is node_module to get input in  cmd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node ./demo/hello.js"
+  },
+  "author": "chow xiang",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "co": "^4.6.0"
+  },
+  "keywords": [
+    "node",
+    "readline",
+    "process",
+    "stdin",
+    "stdout",
+    "cmd",
+    "command",
+    "input"
+  ],
+}
