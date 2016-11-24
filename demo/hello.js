@@ -8,4 +8,5 @@ co(function* (){
 	var hello = yield cmdio.input('Hello:');
 	var world = yield cmdio.input('world:');
 	console.log(hello + world);
+	cmdio.close();
 });
